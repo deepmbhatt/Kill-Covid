@@ -20,7 +20,7 @@ To run "Kill Covid" on your local machine, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/kill-covid.git
+   git clone https://github.com/your-username/kill-covid.git](https://github.com/deepmbhatt/Kill-Covid.git
    cd kill-covid
 
 ### Install dependencies:
